@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin: 80px;
+}
+.container {
+    width: 800px;
+    border: 3px solid rgba(0,0,0,0.5);
+}
+.aqua {
+    background-color: rgb(0, 134, 237);
+    height: 150px;
+}
+.userCircles {
+    position: relative;
+    top: -50px;
+}
+.location {
+    display: flex;
+}
+div.container > {
+    
+}
